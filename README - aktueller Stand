@@ -1,0 +1,7 @@
+Hi, noch ist alles sehr unübersichtlich, aber das wird noch aufgeräumt ;)  
+
+Ich habe bisher einiges ausprobiert und schon ein RF und ein LSTM Modell zum laufen gebracht, jedoch nicht so wie ich wollte und wie man im Code erkennen kann, sehr unstrukturiert.
+Ich habe jetzt dieses Paper mit GitHub repo gefunden "https://dl.acm.org/doi/abs/10.1145/3301300" und werde mich nun erstmal daran orientieren. 
+Dies sollte mir helfen eine strukturiertere Outcome Prediction durchführen zu können. 
+
+Sobald die Outcome Prediction läuft werde ich mich an einen SHAP Explainer machen.
