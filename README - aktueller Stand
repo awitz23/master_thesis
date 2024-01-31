@@ -1,16 +1,10 @@
-Hi, noch ist alles sehr unübersichtlich, aber das wird noch aufgeräumt ;)  
+The file 'prototype_and_empirical_analysis' contains:
 
-Bisher läuft:
+  -the prototype
+  -the benchmarking test of the protoype
+  -the hyperparametertuning of the prototype
 
-Outcome Prediction
--Preprocessing
--Bucketing
--Encoding
--Modelle, hier ist die Entscheidung noch nicht final, Modelle müssen noch evaluiert werden
--Predictions für einzelne Datenpunkte
+  -the empirical analysis of the user study  
+  -all used figures
 
---> ABER: noch einiges manuell, zB Wahl der Buckets 
-
-SHAP
--Erklärung der Features des Modells
--Erklärung einzelner Datenpunkte
+Note: for the prototype to run, it is necessary to insert path to a saved Event-Log in the fast part "Dependencies"
